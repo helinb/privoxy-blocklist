@@ -32,6 +32,7 @@
 # array of URL for AdblockPlus lists
 URLS=(
 	"https://easylist-downloads.adblockplus.org/easylist.txt" 
+	"https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
 	"https://spam404bl.com/spam404scamlist.txt"
 	"https://raw.githubusercontent.com/nfer/easylistchina_it/master/easylistchina_it.txt"
 	"https://github.com/gythialy/chinalist/raw/master/my_custom_list.txt"
