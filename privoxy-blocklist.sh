@@ -31,12 +31,12 @@
 
 # array of URL for AdblockPlus lists
 URLS=(
-	"https://easylist-downloads.adblockplus.org/fanboy-social.txt" 
-	"http://adblockplus.mozdev.org/easylist/easylist.txt" 
-	"https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt" 
-	"https://easylist-downloads.adblockplus.org/easyprivacy.txt" 
-	"https://easylist-downloads.adblockplus.org/malwaredomains_full.txt"
-	"https://secure.fanboy.co.nz/fanboy-adult.txt"
+	"https://easylist-downloads.adblockplus.org/easylist.txt" 
+	"https://spam404bl.com/spam404scamlist.txt"
+	"https://raw.githubusercontent.com/nfer/easylistchina_it/master/easylistchina_it.txt"
+	"https://github.com/gythialy/chinalist/raw/master/my_custom_list.txt"
+	"https://github.com/JinsongVan/chinalist/raw/master/china_mobile_list.txt"
+	"https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
 )
 # privoxy config dir (default: /etc/privoxy/)
 CONFDIR=/etc/privoxy
