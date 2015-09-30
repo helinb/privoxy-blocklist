@@ -6,6 +6,8 @@
 #                  Mail: lord-weber-andrwe<at>renona-studios<dot>org
 #                  Version: 0.2
 #                  URL: http://andrwe.dyndns.org/doku.php/blog/scripting/bash/privoxy-blocklist
+#                  URL: https://github.com/Andrwe/privoxy-blocklist
+#                  URL: https://github.com/helinb/privoxy-blocklist
 #
 ##################
 #
